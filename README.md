@@ -21,14 +21,21 @@ Librerías utilizadas:
 
 ![Base de cartas](/imagenes/Pantalla%20cartas%20consulta.png)
 
+<img src="/imagenes/Pantalla%20cartas%20consulta.png" alt="Base de cartas" width="50"/>
+
 ### Reglas
 
 ![Reglas](/imagenes/Pantalla%20reglas%20consulta.png)
 
 ### Cartas por usuario
 
-![Cartas-usuario1](/imagenes/Pantalla%20cartas-usuario%20carga.png) ![Cartas-usuario2](/imagenes/Pantalla%20cartas-usuario%20consulta.png)
+![Cartas-usuario1](/imagenes/Pantalla%20cartas-usuario%20carga.png)![Cartas-usuario2](/imagenes/Pantalla%20cartas-usuario%20consulta.png)
 
-### Aplicación de sugerir batallas
+<p align="center">
+  <img src="/imagenes/Pantalla%20cartas-usuario%20carga.png" alt="Imagen 1" width="50"/>
+  <img src="/imagenes/Pantalla%20cartas-usuario%20consulta.png" alt="Imagen 2" width="50"/>
+</p>
+
+### Función de sugerir batallas
 
 ![Sugerir-batallas](/imagenes/Pantalla%20sugerir%20batalla.png)
